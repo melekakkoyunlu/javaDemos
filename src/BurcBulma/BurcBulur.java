@@ -16,67 +16,67 @@ public class BurcBulur {
                 System.out.println("oglak");
             else
                 System.out.println("kova");
-        } else if (month.equals("subat") {
+        } else if (month.equals("subat")) {
             if(day<19)
                 System.out.println("kova");
             else
                 System.out.println("balik");
 
-        }else if (month.equals("mart") {
+        }else if (month.equals("mart")) {
             if(day<20)
                 System.out.println("balik");
             else
                 System.out.println("koc");
 
-        }else if (month.equals("nisan") {
+        }else if (month.equals("nisan")) {
             if(day<20)
                 System.out.println("koc");
             else
                 System.out.println("boga");
 
-        }else if (month.equals("mayis") {
+        }else if (month.equals("mayis")) {
             if(day<21)
                 System.out.println("boga");
             else
                 System.out.println("ikizler");
 
-        }else if (month.equals("haziran") {
+        }else if (month.equals("haziran")) {
             if(day<22)
                 System.out.println("ikizlar");
             else
                 System.out.println("yengec");
 
-        }else if (month.equals("temmuz") {
+        }else if (month.equals("temmuz")) {
             if(day<22)
                 System.out.println("yengec");
             else
                 System.out.println("aslan");
 
-        }else if (month.equals("agustos") {
+        }else if (month.equals("agustos")) {
             if(day<22)
                 System.out.println("aslan");
             else
                 System.out.println("basak");
 
-        }else if (month.equals("eylul") {
+        }else if (month.equals("eylul")) {
             if(day<22)
                 System.out.println("basak");
             else
                 System.out.println("terazi");
 
-        }else if (month.equals("ekim") {
+        }else if (month.equals("ekim")) {
             if(day<22)
                 System.out.println("terazi");
             else
                 System.out.println("akrep");
 
-        }else if (month.equals("kasim") {
+        }else if (month.equals("kasim")) {
             if(day<21)
                 System.out.println("akrep");
             else
                 System.out.println("yay");
 
-        }else if (month.equals("aralik") {
+        }else if (month.equals("aralik")) {
             if(day<21)
                 System.out.println("yay");
             else
